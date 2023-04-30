@@ -8,9 +8,17 @@ I am evolving in the field of Data Analytics, System/Business Analytics. I can e
     - Resume
     - Hackathons 
     - Case competitions 
-    - ML and Analytics projects
     - Data visualization (Tableau and DataLens)
+    
+<h2> 🌃 ML and Analytics </h2>
 
+- <b> Some of ML and Analytics projects </b>
+    - [Natural Systems Simulation Lab at ITMO University](https://github.com/olgaselesnjova/Natural_Systems_Simulation_Lab_ITMO)
+    - [Tweet-sentiment-analysis (XGBClassifier: Accuracy = 0.60260)](https://github.com/olgaselesnjova/Tweet-sentiment-analysis) 
+    - [Car price prediction (XGBRegressor: MAPE = 6.77234)](https://github.com/olgaselesnjova/Cars_competition) 
+    - [Analysis of the activity of GSOM students on the Jupyter Hub platform](https://github.com/olgaselesnjova/JHub_logs_GSOM)
+    - [Two-stage championship from the GSOM and MegaFon](https://github.com/olgaselesnjova/MegaFon)- Development of local strategies for the development of the telecommunications company MegaFon based on an assessment of the development of the tourism industry in Russia
+  
 <h2> 🤳 Connect with me:</h2>
     
 - e-mail: olgaselesnjova@gmail.com
