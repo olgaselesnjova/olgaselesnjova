@@ -1,5 +1,6 @@
-<h1>Hi, I'm Olya!<h1>
-
+<h2> 💜 Hi, I'm Olya! </h2>
+    
+I am evolving in the field of Data Analytics, System/Business Analytics. I can effectively structure and visualize Big Data, build forecasts (using ML models), organize a backlog, draw up technical specifications (using BP notations), plan sprints and manage projects
 
 <h2> 👨‍💻 Portfolio in Notion </h2>
 
@@ -11,7 +12,11 @@
     - Data visualization (Tableau and DataLens)
 
 <h2> 🤳 Connect with me:</h2>
+    
 - e-mail: olgaselesnjova@gmail.com
+    
 - mobile: +7 (981) 852-96-45
+    
 - [Telegram](https://t.me/olgaselesnjova)
+    
 - [LinkedIn](https://linkedin.com/in/olgaselesnjova)
