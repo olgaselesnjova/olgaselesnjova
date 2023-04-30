@@ -20,11 +20,8 @@ I am evolving in the field of Data Analytics, System/Business Analytics. I can e
     - [Two-stage championship from the GSOM and MegaFon](https://github.com/olgaselesnjova/MegaFon)- Development of local strategies for the development of the telecommunications company MegaFon based on an assessment of the development of the tourism industry in Russia
   
 <h2> 🤳 Connect with me:</h2>
-    
+
 - e-mail: olgaselesnjova@gmail.com
-    
 - mobile: +7 (981) 852-96-45
-    
 - [Telegram](https://t.me/olgaselesnjova)
-    
 - [LinkedIn](https://linkedin.com/in/olgaselesnjova)
